@@ -1,2 +1,2 @@
 #!/bin/bash
-cp pwd/ls -la .. *html
+chown vincent:staff*
