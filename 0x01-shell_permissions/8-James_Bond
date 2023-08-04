@@ -1,0 +1,2 @@
+#!/bin/bash
+ch,od u+x ug+0,o+rwx hello
